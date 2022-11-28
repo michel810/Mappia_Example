@@ -1,0 +1,11 @@
+X,Y,OBJECTID,OID_,Nom,Libellé,Existant,Observatio,Dept,DEPT_1,VOIE,POINT_X,POINT_Y,POINT_Z,POINT_M,local,Affiche,icon_url
+9.11988018102556,42.1139598942338,"33","33",Webcam Col Vizzavona,WEBCAM Existante,En fonction,Webcam col Vizzavona : existante en fonction,"0",2A,T20,9.11988018103,42.11395989420,0.00000000000,nan,Col Vizzavona,"1",./0.png
+9.05178290685569,42.0826065032875,"34","34",Webcam Giratoire Bocognano,WEBCAM Existante,En fonction,Webcam Giratoire Bocognano : existante,"0",2A,T40,9.05178290686,42.08260650330,0.00000000000,nan,Giratoire Bocognano,"1",./0.png
+8.93421702419636,41.8810385923572,"35","35",Webcam Col ST Georges,WEBCAM Existante,En fonction,Webcam col ST Georges: existante en fonction,"0",2A,T40,8.93421702420,41.88103859240,0.00000000000,1.00000000000,Col Saint Georges,"1",./0.png
+9.06703907619249,42.0876455009392,"46","46",Webcam tunnel Bocognano tête SUD,1 caméra,En fonction,,"0",2A,T20,9.06703907619,42.08764550090,0.00000000000,nan,Tunnel Bocognano,"1",./0.png
+9.07251840440091,42.0900938215727,"47","47",Webcam tunnel Bocognano tête NORD,1 caméra,En cours,En cours de raccordement à la fibre,"0",2A,T20,9.07251840440,42.09009382160,0.00000000000,nan,Tunnel Bocognano,"1",./0.png
+9.10366057427615,42.1041324752336,"49","49",Webcam saut du prêtre,1 caméra,En fonction,Autonome,"0",2A,T20,9.10366057428,42.10413247520,0.00000000000,nan,Saut du Prêtre,"1",./0.png
+9.08388520463853,41.8236357393979,"54","54",Webcam Col de la VACCIA,1 caméra,"2022","Autonome, en cours de travaux","0",2A,D69,9.08388520464,41.82363573940,0.00000000000,nan,Col de la Vaccia,"1",./0.png
+9.2250213909245,41.7957782857393,"56","56",Webcam Col de BAVELLA,1 caméra,"2022",En cours de travaux,"0",2A,D268,9.22502139092,41.79577828570,0.00000000000,nan,Col de Bavella,"1",./0.png
+9.02098102155696,41.775000972417,"57","57",Webcam Col Saint EUSTACHE,WEBCAM Projetée,Projet,En cours de travaux,"0",2A,D420,9.02098102156,41.77500097240,0.00000000000,nan,Col Saint Eustache,"1",./0.png
+8.82993879294099,42.2233558318063,"60","60",Webcam Col de SEVI,1 caméra,En fonction,"Autonome; en fonction","0",2A,D70,8.82993879294,42.22335583180,0.00000000000,nan,Col de Sevi,"1",./0.png
